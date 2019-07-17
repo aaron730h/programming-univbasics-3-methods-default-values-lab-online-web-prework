@@ -1,2 +1,2 @@
 # Your code here
-puts ""
+puts
